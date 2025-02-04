@@ -1,0 +1,14 @@
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.exe
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.deps.json
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.runtimeconfig.json
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.dll
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\bin\Debug\net8.0\BankAccount.pdb
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfoInputs.cache
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.AssemblyInfo.cs
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.csproj.CoreCompileInputs.cache
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.dll
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\refint\BankAccount.dll
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.pdb
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\BankAccount.genruntimeconfig.cache
+D:\Treinamento\ProjetoTreinamento\ProjetoC#\SampleApps\APL2007M4BankAccount\BankAccountClass\obj\Debug\net8.0\ref\BankAccount.dll
